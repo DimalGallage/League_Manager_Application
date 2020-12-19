@@ -1,0 +1,33 @@
+.nav_main{
+    width: 20vw;
+    /* border: 1px solid; */
+    height: 100vh;
+    background: rgb(63,100,255);
+    background: linear-gradient(31deg, rgba(63,100,255,1) 0%, rgba(0,255,232,1) 100%);
+    box-shadow: 5px 0px 10px rgb(223, 223, 223);
+    font-family: "Poppins",sans-serif;
+    position: fixed;
+}
+
+.heading{
+    /* border: 1px solid rebeccapurple; */
+    margin-top: 50px;
+}
+h1{
+    margin: 0%;
+    padding: 0%;
+    color: white;
+    width: 100%;
+    /* border: 1px solid; */
+    text-align: center;
+}
+#line01{
+    font-size: 40px;  
+}
+#line02{
+    transform: translateY(-15px);
+}
+
+.button_container{
+    margin-top: 10vh;
+}
